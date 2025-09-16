@@ -30,4 +30,4 @@ Sistema completo para el cálculo, monitoreo y análisis del OEE (Overall Equipm
 ### Prerrequisitos
 ```bash
 Python 3.8+
-pip install -r requirements.txt
+pip install streamlit pandas numpy plotly openpyxl
